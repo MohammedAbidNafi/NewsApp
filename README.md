@@ -31,7 +31,7 @@ A bit overview, it uses newsapi.org API to get news and get JSON data back. Then
 - [Databinding](https://developer.android.com/topic/libraries/data-binding/) Binding data and reducing 100s of Lines of Code
 
 #### Credits
-- [Udacity](https://udacity.com/) For teaching me Android
+- [Udacity](https://udacity.com/) For teaching me how to develop Android Apps.
 
 #### License
 GNU General Public License v3.0
